@@ -1,0 +1,93 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Ranjith/Documents/vhdl/and
+Ehalf_adder
+Z0 w1580733185
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Ranjith/Documents/vhdl/half_adder
+Z5 8C:/Users/Ranjith/Documents/vhdl/half_adder/half_adder.vhd
+Z6 FC:/Users/Ranjith/Documents/vhdl/half_adder/half_adder.vhd
+l0
+L6
+VzH8MZj8I_;M^@UTdUY>k_1
+!s100 ^9LA1[=TgKZ1TRXAgW=2E0
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1580733306
+!i10b 1
+Z9 !s108 1580733306.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Ranjith/Documents/vhdl/half_adder/half_adder.vhd|
+Z11 !s107 C:/Users/Ranjith/Documents/vhdl/half_adder/half_adder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Artl
+R1
+R2
+R3
+Z14 DEx4 work 10 half_adder 0 22 zH8MZj8I_;M^@UTdUY>k_1
+l16
+L15
+VWU[kiBi?HmN3Pg07l:k>93
+!s100 5BUmj9?]jD2T6LAEU7H[O3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ehalf_adder_tb
+Z15 w1580733303
+R1
+R2
+R3
+R4
+Z16 8C:/Users/Ranjith/Documents/vhdl/half_adder/half_adder_tb.vhd
+Z17 FC:/Users/Ranjith/Documents/vhdl/half_adder/half_adder_tb.vhd
+l0
+L6
+VbX[9zKZ25kL^c5]VbQaod0
+!s100 B^YdD1>S4oHGGDBgDbF0Y3
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Ranjith/Documents/vhdl/half_adder/half_adder_tb.vhd|
+Z19 !s107 C:/Users/Ranjith/Documents/vhdl/half_adder/half_adder_tb.vhd|
+!i113 1
+R12
+R13
+Abehave
+R14
+R1
+R2
+R3
+DEx4 work 13 half_adder_tb 0 22 bX[9zKZ25kL^c5]VbQaod0
+l14
+L9
+VaO?U`73MAMW[e]2;BE9Z40
+!s100 WWm^1g9<CAa=iXn2aKe]H2
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
